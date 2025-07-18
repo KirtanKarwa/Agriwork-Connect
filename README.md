@@ -83,5 +83,4 @@ N. B. Navale Sinhgad College of Engineering, Solapur.
 
 This project is for academic and demonstration purposes. Contact the team or college for reuse or collaboration.
 
-=======
 
