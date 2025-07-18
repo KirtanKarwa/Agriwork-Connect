@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgriWork Connect 🚜👷‍♂️
 
 **AgriWork Connect** is a digital labour hiring platform designed to streamline the process of connecting farmers, labourers, and vehicle drivers in rural India. It eliminates middlemen and enables transparent, efficient, and traceable hiring through a responsive web application.
@@ -70,7 +71,7 @@ The traditional agricultural labour hiring system relies heavily on verbal commu
 
 ## 👨‍💻 Developed By
 
-- Vishal Kundlik Mote  
+- Kirtan Dhanraj Karwa 
 
 
 Under the guidance of **Prof. Harish T. Gurme**,  
@@ -82,3 +83,6 @@ N. B. Navale Sinhgad College of Engineering, Solapur.
 
 This project is for academic and demonstration purposes. Contact the team or college for reuse or collaboration.
 
+=======
+# Agriwork-Connect
+>>>>>>> 0195de6b9b87fb731df601cb25330fdeb3758a9c
